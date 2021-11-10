@@ -1,2 +1,2 @@
-# lifx-st-edge
+# LIFX SmartThings Edge
 LIFX driver for the SmartThings Edge platform

@@ -1,0 +1,5 @@
+name: 'Lifx'
+packageKey: 'lifx.bcandersen'
+permissions:
+  lan: {}
+  discovery: {}
